@@ -17,6 +17,7 @@ console.log(typeof (a+b));*/
 a['friend']="Saanvi"
 console.log(a);*/
 
+
 // code for creating a word meaning dictionary 
 /*const dic={
     Ephemeral: "Lasting for a very short time",
