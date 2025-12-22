@@ -29,4 +29,3 @@ Serendipity: "The occurrence and development of events by chance in a happy or b
 console.log(dic.Ineffable);
 console.log(dic['Serendipity']);*/
 
-
